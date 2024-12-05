@@ -19,3 +19,4 @@
 8. tokenizer.py is used to experiment with WordPieceTokenizer from BERT but was not promising. 
 
 We have used some starter code from https://github.com/karpathy/minGPT mostly trainer.py, utils.py. But most of our code including the model architecture iswritten by our team.
+# reportgen
